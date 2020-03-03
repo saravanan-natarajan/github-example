@@ -1,2 +1,2 @@
 # github-example
-Demonstration of Github
+Demonstration of how to use GitHub
